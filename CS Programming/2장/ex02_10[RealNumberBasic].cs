@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS_Programming._2장
 {
-    class ex02_10
+    class ex02_10_RealNumberBasic_
     {
         // 코드 2-10 : 실수와 사칙 연산자
         static void ex02_10(string[] args)
