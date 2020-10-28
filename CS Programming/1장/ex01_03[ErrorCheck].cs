@@ -8,6 +8,7 @@ namespace CS_Programming._1장
 {
     class ErrorCheck
     {
+        // 코드 1-3 : 오류가 발생하는 코드
         static void ex01_03(string[] args)
         {
             //Console.WriteRine("Hello World");
