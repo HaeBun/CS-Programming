@@ -8,7 +8,8 @@ namespace CS_Programming
 {
     class DefaultProject
     {
-        static void cC01_01(string[] args)
+        // 코드 1-1 : 기본코드
+        static void cC01_01(string[] args) 
         {
         }
     }
