@@ -8,7 +8,7 @@ namespace CS_Programming
 {
     class DefaultProject
     {
-        static void ex01_01(string[] args)
+        static void cC01_01(string[] args)
         {
         }
     }
