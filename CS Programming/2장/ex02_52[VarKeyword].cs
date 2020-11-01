@@ -11,7 +11,7 @@ namespace CS_Programming._2장
         // 코드 2-52 : 지역변수
         //var gloval = 52;
 
-        static void Main(string[] args)
+        static void ex02_52(string[] args)
         {
             var local = 273;
         }
