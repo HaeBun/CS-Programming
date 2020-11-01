@@ -11,7 +11,7 @@ namespace CS_Programming._2장
         // 코드 2-30 : long 자료형을 나타낸느 기호: 소문자
         static void ex02_30(string[] args)
         {
-            Console.WriteLine(123456 + 654321);
+            Console.WriteLine(123456 + 65432l);
         }
     }
 }
