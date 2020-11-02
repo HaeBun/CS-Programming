@@ -9,7 +9,7 @@ namespace CS_Programming._3장
     class ex03_12_SwitchWithoutBreak_
     {
         // 코드 3-12 : break 키워드를 사용하지 않는 switch 조건문
-        static void Main(string[] args)
+        static void ex03_12(string[] args)
         {
             // 변수를 선언합니다.
             Console.Write("이번 달은 몇 월인가요: ");
