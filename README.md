@@ -29,16 +29,16 @@ C# 프로그래밍 예제 및 문제풀이
     - 06 삼항 연산자 - Clear
     - 07 함께하는 응용예제 - Clear
  -  4. 반복문
-    - 01 반복문과 배열
-    - 02 while 반복문
-    - 03 do while 
-    - 04 for 반복문
-    - 05 역 for 반복문
-    - 06 foreach 반복문
-    - 07 중첩 반복문
-    - 08 break 키워드
-    - 09 continue 키워드
-    - 10 함께하는 응용예제
+    - 01 반복문과 배열 - Clear
+    - 02 while 반복문 - Clear
+    - 03 do while - Clear
+    - 04 for 반복문 - Clear
+    - 05 역 for 반복문 - Clear
+    - 06 foreach 반복문 - Clear
+    - 07 중첩 반복문 - Clear
+    - 08 break 키워드 - Clear
+    - 09 continue 키워드 - Clear
+    - 10 함께하는 응용예제 - Clear
  -  5. 클래스 기본
     - 01 클래스 개요
     - 02 클래스 사용
